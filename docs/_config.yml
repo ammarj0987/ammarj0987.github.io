@@ -44,8 +44,8 @@ plugins:
 header_pages:
   - projects.md
   - courses.md
-  - about.markdown
   - resume.markdown
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
