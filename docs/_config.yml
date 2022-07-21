@@ -35,12 +35,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# minima:
-#   # skin: dark
-#   social_links:
-#     github: ammarj0987
-#     linkedin: ammar
-
 header_pages:
   - projects.md
   - courses.md
