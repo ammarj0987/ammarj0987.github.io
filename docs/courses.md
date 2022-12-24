@@ -15,5 +15,11 @@ Includes substantial programming experience in languages that expose machine cha
 <h1>CSE 344 Introduction To Data Management</h1>
 Introduces database management systems and writing applications that use such systems; data models (e.g., relational, semi-structured), query languages (e.g., SQL, XQuery), language bindings, conceptual modeling, transactions, security, database tuning, data warehousing, parallelism, and web-data management.
 
+<h1>CSE 473 Introduction To Artificial Intelligence<h1>
+Principal ideas and developments in artificial intelligence: Problem solving and search, game playing, knowledge representation and reasoning, uncertainty, machine learning, natural language processing.
+
 <h1>CSE 455 Computer Vision</h1>
 Introduction to image analysis and interpreting the 3D world from image data. Topics may include segmentation, motion estimation, image mosaics, 3D-shape reconstruction, object recognition, and image retrieval.
+
+<h1>CSE 484 Computer Security</h1>
+Foundations of modern computer security, including software security, operating system security, network security, applied cryptography, human factors, authentication, anonymity, and web security.
