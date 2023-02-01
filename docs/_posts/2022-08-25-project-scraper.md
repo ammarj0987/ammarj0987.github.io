@@ -3,7 +3,7 @@ layout: post
 title: "Web Scraper"
 ---
 
-<h3> Web Scraper </h3> [Github](https://github.com/ammarj0987/Web-Scraper)
+[Github Link](https://github.com/ammarj0987/Web-Scraper)
 
 <p> Web Scraping can be used in many ways for many different reasons. In this project I implemented a web scraping script to extract useful performance metrics of different vehicles. <a href="https://www.caranddriver.com/">Car And Driver</a> is an American automotive enthusiast magazine that reviews and tests all kinds of cars. They provide a spec sheet of all the testing that is done on a car. I collected urls of some of the cars that I am interested in and compiled them into a csv file. </p>
 

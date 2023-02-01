@@ -3,7 +3,7 @@ layout: post
 title: "Car Classification"
 ---
 
-<h3>Car Classification</h3> ([Github](https://github.com/ammarj0987/Computer-Vision))
+([Github Link](https://github.com/ammarj0987/Computer-Vision))
 
 <p>I implemented and tested multiple training models on stanford's car dataset to compare the accuracy of each model. The dataset contains 8,144 training images and 8,041 testing images of a diverse group of cars. There are 196 labels in the form of Make, Model, Year of a car. For more information on the dataset: https://ai.stanford.edu/~jkrause/cars/car_dataset.html</p>
 

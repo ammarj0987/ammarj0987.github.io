@@ -3,7 +3,7 @@ layout: post
 title: "Marvel Connections"
 ---
 
-<h3>Marvel Connections</h3> ([email](ammar.junejo0987@yahoo.com) for access)
+([email](ammar.junejo0987@yahoo.com) for access)
 
 ![marvel]({{ site.baseurl }}/assets/marvel.png)
 

@@ -3,7 +3,7 @@ layout: post
 title: "UW Pathfinder"
 ---
 
-<h3>UW Pathfinder</h3> ([email](ammar.junejo0987@yahoo.com) for access)
+([email](ammar.junejo0987@yahoo.com) for access)
 
 ![pathfinder]({{ site.baseurl }}/assets/pathfinder.png)
 
