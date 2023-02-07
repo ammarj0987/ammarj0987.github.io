@@ -10,17 +10,20 @@ layout: "page"
 h1 {
   text-align: center;
   font-size: 60px;
-  margin-top: 150px;
+  margin-top: 180px;
   color: white
 }
 h3 {
   text-align: center;
 }
 body {
-  background-image: url('https://i.natgeofe.com/n/95e0a142-5cda-40e4-b89c-040f286da03f/kaghan-valley-swat-pakistan_4x3.jpg');
+  background-image: url('./assets/I90_background.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-position: center;
+  background-size: 1920px 845px;;
+  /* ratiod 1008px 760px */
+  /* fixed: 1920px 845px; */
 }
 </style>
 
