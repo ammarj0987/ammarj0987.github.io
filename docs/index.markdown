@@ -21,9 +21,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-size: 1920px 845px;;
+  background-size: 1920px 845px;
   /* ratiod 1008px 760px */
-  /* fixed: 1920px 845px; */
+  /* fixed: 1920px 845px */
+  /* covered: 1920px 969px */
 }
 </style>
 
