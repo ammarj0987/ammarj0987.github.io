@@ -23,3 +23,12 @@ Introduction to image analysis and interpreting the 3D world from image data. To
 
 <h1>CSE 484 Computer Security</h1>
 Foundations of modern computer security, including software security, operating system security, network security, applied cryptography, human factors, authentication, anonymity, and web security.
+
+<h1>CSE 474 Introduction to Embedded Systems </h1>
+Introduction to the specification, design, development, and test of real time embedded system software. Use of a modern embedded microcomputer or microcontroller as a target environment for a series of laboratory projects and a comprehensive final project.
+
+<h1>CSE 452 Distributed Systems</h1>
+Covers abstractions and implementation techniques in the construction of distributed systems, including cloud computing, distributed storage systems, and distributed caches.
+
+<h1>CSE 442 Data Visualization</h1>
+Covers techniques and algorithms for creating effective visualizations based on principles from graphic design, visual art, perceptual psychology, and cognitive science. Topics include data and image models; visual encoding; graphical perception; color; animation; interaction techniques; graph layout; and automated design. Lectures, reading, and project.
