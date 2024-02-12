@@ -11,7 +11,7 @@ h1 {
   text-align: center;
   font-size: 60px;
   margin-top: 180px;
-  color: white
+  color: black
 }
 h3 {
   text-align: center;
