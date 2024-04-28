@@ -17,10 +17,10 @@ h3 {
   text-align: center;
 }
 body {
-  /* background-image: url('./assets/I90_background.png');
+  background-image: url('./assets/vsCodeWallpaper.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center; */
+  background-position: center;
   /* background-size: 1920px 845px; */
   /* ratiod 1008px 760px */
   /* fixed: 1920px 845px */
