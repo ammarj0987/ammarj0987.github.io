@@ -17,8 +17,8 @@ h3 {
   text-align: center;
 }
 body {
-  background-image: url('./assets/vsCodeWallpaper.png');
-  background-position: center;
+  /* background-image: url('./assets/vsCodeWallpaper.png');r
+  background-position: center; */
   /* background-size: 1920px 845px; */
   /* ratiod 1008px 760px */
   /* fixed: 1920px 845px */
