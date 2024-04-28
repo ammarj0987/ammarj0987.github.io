@@ -18,8 +18,6 @@ h3 {
 }
 body {
   background-image: url('./assets/vsCodeWallpaper.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center;
   /* background-size: 1920px 845px; */
   /* ratiod 1008px 760px */
